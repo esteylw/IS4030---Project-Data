@@ -1,0 +1,17 @@
+{'Professors':[
+	{'firstName':'Jacob',
+	'lastName':'Davison',
+	'Department':'Information Systems',
+	'Class1':'IS4030',
+	'Class2':'IS4010',},
+	{'firstName':'Michelle',
+	'lastName':'Reed',
+	'Department':'Finance',
+	'Class1':'FIN4040',
+	'Class2':'FIN4020',},
+	{'firstName':'Nadia',
+	'lastName':'Hall',
+	'Department':'Business Administration',
+	'Class1':'BA3030',
+	'Class2':'BA5080',}
+]}
